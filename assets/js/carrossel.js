@@ -13,27 +13,12 @@ function carrosselInit() {
   const dados = {
     projetos: [
       {
-        titulo: "Ron Digital",
-        link: "https://ron.digital/",
-        repositorio: "https://www.linkedin.com/in/yakup-tetik-8543671b4/",
-        detalhes:
-          "Ron Digital, which includes different disciplines and software languages, has a software team that keeps up with the speed of the modern age. With its fast and flexible software team, it prepares clean coded software that can be used for many years without any problems.",
-        techs: ["HTML5", "CSS3", "JavaScript", "Next", "React", "Figma"],
-      },
-      {
-        titulo: "Sms Spam Filter",
-        link: "https://spam-filter-phi.vercel.app/",
-        repositorio: "https://www.linkedin.com/in/yakup-tetik-8543671b4/",
-        detalhes:
-          " SMS Spam Filter is the ultimate blocking solution that allows you to easily block offensive messages. Type the words you want blocked, browse the list of words you typed, and enter keywords in Spam messages to get rid of them easily.",
-        techs: ["HTML5", "CSS3", "JavaScript", "React", "Figma"],
-      },
-      {
         titulo: "Plandy",
         link: "https://plandy.co/",
         repositorio: "https://www.linkedin.com/in/yakup-tetik-8543671b4/",
         detalhes:
-          "Plandy is an appointment scheduling app that allows businesses to create and manage appointments for their customers in one place.",
+          "Plandy is an appointment scheduling and management app that allows businesses to create and manage appointments for their customers in one place.",
+
         techs: ["HTML5", "Sass", "TypeScript", "Next", "Figma"],
       },
       {
@@ -43,6 +28,22 @@ function carrosselInit() {
         detalhes:
           "Automated Penetration Testing Tool Save time and money on black box pentesting by set up and start scanning your web applications, JavaScript, or API in minutes.",
         techs: ["HTML5", "Sass", "TypeScript", "React", "Figma"],
+      },
+      {
+        titulo: "Ron Digital",
+        link: "https://ron.digital/",
+        repositorio: "https://www.linkedin.com/in/yakup-tetik-8543671b4/",
+        detalhes:
+          "Ron Digital, which includes different disciplines and software languages, prepares clean coded software that can be used for many years with its fast and flexible software team.",
+        techs: ["HTML5", "CSS3", "JavaScript", "Next", "React", "Figma"],
+      },
+      {
+        titulo: "Sms Spam Filter",
+        link: "https://spam-filter-phi.vercel.app/",
+        repositorio: "https://www.linkedin.com/in/yakup-tetik-8543671b4/",
+        detalhes:
+          "SMS Spam Filter is the ultimate blocking solution that lets you easily block offensive messages. Type the words you want blocked  to get rid of them easily.",
+        techs: ["HTML5", "CSS3", "JavaScript", "React", "Figma"],
       },
       {
         titulo: "Ballerini Devs",
@@ -92,16 +93,6 @@ function carrosselInit() {
           'Projeto de uma clínica petshop fictícia, com telas de início, quem somos, serviços, fale conosco, login e cadastro. Desenvolvido em grupo, durante a disciplina de "Projeto e Desenvolvimento de Software" (front-end).',
         techs: ["HTML5", "CSS3", "JavaScript", "Figma"],
       },
-      /*
-      {
-        titulo: "Pet Planet | Usuário",
-        link: "https://petplanet.netlify.app/07-user-page.html/",
-        repositorio: "https://github.com/gc-barros/pet-planet",
-        detalhes:
-          "Páginas internas da clínica Pet Planet, para as quais os usuários seriam direcionados após o login e cadastro, com acesso a telas navegáveis de início, produtos, serviços e agenda (back-end não integrado).",
-        techs: ["HTML5", "CSS3", "JavaScript", "Figma"],
-      },
-      */
     ],
   };
 
